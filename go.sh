@@ -1,3 +1,4 @@
+# this is a test git
 #!/Tbin/bash
 
 # This file is accessible as https://install.direct/go.sh
